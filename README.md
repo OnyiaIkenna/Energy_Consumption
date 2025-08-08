@@ -5,7 +5,7 @@ This project showcases a series of Power BI dashboards analyzing electricity (AE
 The goal of these dashboards is to provide a clear, data-driven view of how much energy is consumed, how costs fluctuate, and how diesel usage compares to grid electricity over time.
 
 Project Highlights
-1. Long-Term Analysis (Nov 2023 – Present)
+Long-Term Analysis (Nov 2023 – Present)
 Total AEDC Cost: ₦125.26M
 
 Total Diesel Cost: ₦184.5M
@@ -18,7 +18,7 @@ Diesel costs occasionally surpass AEDC during generator-heavy periods.
 
 Clear monthly cost and consumption breakdowns.
 
-2. Detailed Monthly View (May – June 2025)
+Detailed Monthly View (May – June 2025)
 May 2025:
 
 AEDC Cost: ₦8.17M
